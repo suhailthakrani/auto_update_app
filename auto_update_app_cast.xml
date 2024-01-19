@@ -6,6 +6,7 @@
             <title>Version 1.0.2</title>
             <description>Minor updates and improvements.</description>
             <pubDate>Sun, 19 Jan 2024 12:00:00 +0000</pubDate>
+            <link>https://your-app-website.com/release-notes/1.0.2</link>
             <enclosure url="https://drive.google.com/uc?export=download&id=1BjZntKzQ29sUuv3oGYBFYVsmN0CsVeec" sparkle:version="1.0.2" sparkle:os="android" />
         </item>
     </channel>
